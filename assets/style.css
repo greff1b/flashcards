@@ -4,13 +4,13 @@
 
 .cartao{
     margin: 1rem 1rem;
-    background-color: blueviolet;
+    background-color: rgb(43, 107, 226);
 }
 body {
     background-color: rgb(243, 236, 222);
     font-family: Roboto;
     color:blue;
-    font-size: 20%;
+    font-size: 70%;
 }
 
 footer {
